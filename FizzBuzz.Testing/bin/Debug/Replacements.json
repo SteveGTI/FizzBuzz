@@ -1,0 +1,10 @@
+[
+  {
+    "Denominator": 3,
+    "Replacement": "Fizz"
+  },
+  {
+    "Denominator": 5,
+    "Replacement": "Buzz"
+  }
+]
